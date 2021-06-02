@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Introducci&oacute;n">
+		<param name="Local" value="C:\Users\alvar\OneDrive\Escritorio\ayuda\index.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Contenido">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Men&uacute;">
+			<param name="Local" value="C:\Users\alvar\OneDrive\Escritorio\ayuda\menu.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Nueva Partida">
+			<param name="Local" value="C:\Users\alvar\OneDrive\Escritorio\ayuda\nuevapartida.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Jugar">
+			<param name="ImageNumber" value="3">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Reglas">
+				<param name="Local" value="C:\Users\alvar\OneDrive\Escritorio\ayuda\inicio.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Resolver">
+				<param name="Local" value="C:\Users\alvar\OneDrive\Escritorio\ayuda\resolver.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Ranking">
+				<param name="Local" value="C:\Users\alvar\OneDrive\Escritorio\ayuda\ranking.html">
+				</OBJECT>
+		</UL>
+	</UL>
+</UL>
+</BODY></HTML>

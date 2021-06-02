@@ -1,0 +1,15 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=ayuda.chm
+Contents file=C:\Users\alvar\OneDrive\Escritorio\ayuda\Table of Contents.hhc
+Default topic=C:\Users\alvar\OneDrive\Escritorio\ayuda\index.html
+Display compile progress=No
+Language=0xc0a Español (España, internacional)
+Title=index
+
+
+[FILES]
+C:\Users\alvar\OneDrive\Escritorio\ayuda\index.html
+
+[INFOTYPES]
+
